@@ -23,3 +23,11 @@
 .li{
     color: black;
 }
+.nav-item.d-md-none.d-block.text-center {
+    margin-bottom: 0px; /* Adjust the value to control spacing */
+    border: 2px solid rgb(202, 193, 193);
+}
+
+
+
+  
